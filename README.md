@@ -1,1 +1,1 @@
-![System UML Diagram](UML-Diagram.png)
+![System UML Diagram](UML-Diagram1.svg)
